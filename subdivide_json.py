@@ -1,6 +1,5 @@
 import json
 import argparse
-from itertools import islice
 
 """
 Written by Anton Benfey on July 31st 2020.
