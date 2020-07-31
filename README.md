@@ -1,4 +1,4 @@
-# subidivde-json
+# subdivide-json
 Divide your .json file into smaller, equally-sized partitions
 
 Use:
